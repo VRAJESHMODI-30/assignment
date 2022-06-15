@@ -1,0 +1,14 @@
+
+#container{
+      height: 92vh; 
+      width:100vw; 
+      margin-top: 20px;
+      background-color: ghostwhite;
+      box-shadow: 14px 15px 15px #888888;
+}
+
+ #contaierHead{
+      background-color: #7952b3;
+      padding: 10px;
+      color: whitesmoke;
+ }
